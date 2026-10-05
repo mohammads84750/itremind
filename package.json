@@ -1,0 +1,9 @@
+{
+  "name": "itremind",
+  "version": "0.1.0",
+  "private": true,
+  "description": "iTremind personal Life OS (static web app, no build step)",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000"
+  }
+}
